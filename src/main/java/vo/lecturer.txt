@@ -1,5 +1,5 @@
 {
  name:giri,
  subject:thermal,
- salary:30000
+ salarya:30000
 }
