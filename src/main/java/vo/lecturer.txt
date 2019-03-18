@@ -1,0 +1,5 @@
+{
+ name:giri,
+ subject:thermal,
+ salary:30000
+}
