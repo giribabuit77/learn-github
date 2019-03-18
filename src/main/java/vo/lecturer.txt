@@ -1,5 +1,6 @@
 {
  name:giri,
  subject:thermal,
- salarya:30000
+ salarya:60000
 }
+
