@@ -1,0 +1,6 @@
+{
+ name:giri,
+ rollNo:30,
+ dept:mech,
+ dob:20-10-1993, 
+}
