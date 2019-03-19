@@ -1,4 +1,4 @@
 {
    name: sireeshad
-   role: developer
+   role: tester
 }
