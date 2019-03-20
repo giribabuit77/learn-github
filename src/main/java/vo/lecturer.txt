@@ -1,6 +1,6 @@
 {
  name:giri,
- subject:thermal,
+ subject design,
  salarya:77000
 }
 
