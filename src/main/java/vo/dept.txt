@@ -1,5 +1,5 @@
 {
   name:mech,
-  studentCount:80,
+  studentCount:100,
   subject:design
 }
