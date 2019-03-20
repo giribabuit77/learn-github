@@ -1,6 +1,6 @@
 {
  name:giri,
- subject:thermal,
+ subject:thermal and heat transfer,
  salarya:77000
 }
 
