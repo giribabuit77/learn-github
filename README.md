@@ -11,3 +11,4 @@ my first github learning project
 * commit message
 * pull request
 * creating code
+* commit changes daily
