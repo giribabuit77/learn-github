@@ -1,0 +1,8 @@
+--> git clone url = creates local repository.
+--> git checkout -b userstory = creates remote repository.
+--> git checkout repository name = switch branches.
+--> git add = stage the changes of directory.
+--> git commit -m = commit changes with message.
+--> git push = upload to remote repository.
+--> git pull = get the code from remote repository.
+--> pwd = present working directory.
