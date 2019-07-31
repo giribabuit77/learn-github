@@ -1,6 +1,6 @@
 --> git clone url = creates local repository.
---> git checkout -b userstory = creates remote repository.
---> git checkout repository name = switch branches.
+--> git checkout -b branch_name = creates branch.
+--> git checkout branch_name = switch branches.
 --> git add = stage the changes of directory.
 --> git commit -m = commit changes with message.
 --> git push = upload to remote repository.
